@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Democratus.github.io
+title: The Rantry
+email: dovahkiin@keemail.me
+author: Democratus
+description: Welcome to the Rantry. It's me ranting from inside a pantry.
+paginate: 3
+google_analytics: UA-87264496-1
