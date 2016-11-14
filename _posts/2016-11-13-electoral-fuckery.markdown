@@ -5,7 +5,7 @@ layout: post
 tags: [election, 2016, electoral, college, trump, clinton, wtf]
 categories: [politics]
 ---
-This may come as news to some out there, but we are about to have a president elected by a minority. Donald Trump lost the popular vote. I know that some will say that doesn't matter, but it sure as hell does. This has happened twice now in recent years. Think about this. Once he serves his first term, and the year 2020 rolls around (try not to throw up), we will have had presidents elected by a minority for 8 out of the last twenty years. That sure sounds like a lot more than just saying it has only happened twice, doesn't it?
+This may come as news to some out there, but we are about to have a president elected by a minority. Donald Trump lost the popular vote. I know that some will say that doesn't matter, but it sure as hell does. This has happened twice now in recent years. Think about this. Once he serves his first term, and the year 2020 rolls around (try not to throw up), we will have had presidents elected by a minority for eight out of the last twenty years. That sure sounds like a lot more than just saying it has only happened twice, doesn't it?
 
 That's 40% of two decades governed by presidents that the majority voted AGAINST.
 
